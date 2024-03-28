@@ -1,5 +1,6 @@
 package com.anonconf0rmist.departmentservice.repository;
 import com.anonconf0rmist.departmentservice.model.Department;
+import com.anonconf0rmist.departmentservice.model.Employee;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
